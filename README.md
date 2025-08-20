@@ -20,6 +20,7 @@
 - Engineered fast PDF outline extractor (<10s/doc, <200MB, pdfplumber).
 - Developed CyberGuard Chrome extension (90%+ accuracy, <500ms).
 - Led GDG LNCTS (Cloud Technical Lead); E‑Cell IIT Bombay Coordinator.
+- B.Tech CSE @ LNCTS • CGPA 7.53/10.
 
 ## Skills
 Python • JavaScript • Java • RAG • Transformers • Sentence‑Transformers • FLAN‑T5 • Semantic Search • MySQL • MongoDB • Docker • GCP • React • Chrome Extensions
@@ -28,20 +29,15 @@ Python • JavaScript • Java • RAG • Transformers • Sentence‑Transform
 
 ## 🎮 Games
 
-<!-- Play Snake button linking to your repo (optional) -->
+<!-- Play Snake button (optional) -->
 <p align="left">
   <a href="https://github.com/harshh917/snake" target="_blank">
     <img src="https://img.shields.io/badge/Play%20Snake-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<!-- Animated Snake (contribution board) -->
-<!-- 1) Create .github/workflows/snake.yml with the YAML below.
-     2) After it runs once, the image link will render automatically. -->
+<!-- Animated Snake (auto-updates) -->
 ![snake](https://raw.githubusercontent.com/harshh917/harshh917/output/snake.svg)
-
-<!-- GitHub Skyline (optional). Export a GIF from https://skyline.github.com/harshh917 and replace the path below. -->
-<!-- ![GitHub Skyline](path/to/skyline.gif) -->
 
 ---
 
@@ -63,5 +59,4 @@ Python • JavaScript • Java • RAG • Transformers • Sentence‑Transform
 ---
 
 ## Contact
-Email: harshkanojiya917@gmail.com • LinkedIn: www.linkedin.com/in/harsh-kanojiya • GitHub: [/harshh917](https://github.com/harshh917) • LeetCode: [/u/harsh917/](https://leetcode.com/u/harsh917/)
-
+Email: harshkanojiya917@gmail.com • LinkedIn: /in/harsh-kanojiya • GitHub: /harshh917 • LeetCode: /u/harsh917/
