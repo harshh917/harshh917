@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's up?<br>I'm Harsh Kanojiya!</h1>
 
-<!--
-**harshh917/harshh917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:harshkanojiya917@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/harsh-kanojiya" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/harshh917" target="_blank">GitHub</a> •
+  <a href="https://leetcode.com/u/harsh917/" target="_blank">LeetCode</a>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,react,docker,gcp,mongodb,mysql,git" height="40" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">AI Engineering • RAG • PDF Parsing • Security Tools</h3>
+
+---
+
+## Highlights
+- Built persona-driven RAG system (two-stage retrieval + FLAN‑T5).
+- Engineered fast PDF outline extractor (<10s/doc, <200MB, pdfplumber).
+- Developed CyberGuard Chrome extension (90%+ accuracy, <500ms).
+- Led GDG LNCTS (Cloud Technical Lead); E‑Cell IIT Bombay Coordinator.
+
+## Skills
+Python • JavaScript • Java • RAG • Transformers • Sentence‑Transformers • FLAN‑T5 • Semantic Search • MySQL • MongoDB • Docker • GCP • React • Chrome Extensions
+
+---
+
+## 🎮 Games
+
+<!-- Play Snake button linking to your repo (optional) -->
+<p align="left">
+  <a href="https://github.com/harshh917/snake" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Snake-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Animated Snake (contribution board) -->
+<!-- 1) Create .github/workflows/snake.yml with the YAML below.
+     2) After it runs once, the image link will render automatically. -->
+![snake](https://raw.githubusercontent.com/harshh917/harshh917/output/snake.svg)
+
+<!-- GitHub Skyline (optional). Export a GIF from https://skyline.github.com/harshh917 and replace the path below. -->
+<!-- ![GitHub Skyline](path/to/skyline.gif) -->
+
+---
+
+## 📊 Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshh917&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=harshh917&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshh917&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshh917&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## Contact
+Email: harshkanojiya917@gmail.com • LinkedIn: www.linkedin.com/in/harsh-kanojiya • GitHub: [/harshh917](https://github.com/harshh917) • LeetCode: [/u/harsh917/](https://leetcode.com/u/harsh917/)
+
