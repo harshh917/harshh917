@@ -20,7 +20,7 @@
 - Engineered fast PDF outline extractor (<10s/doc, <200MB, pdfplumber).
 - Developed CyberGuard Chrome extension (90%+ accuracy, <500ms).
 - Led GDG LNCTS (Cloud Technical Lead); E‑Cell IIT Bombay Coordinator.
-- B.Tech CSE @ LNCTS • CGPA 7.53/10.
+- B.Tech CSE @ LNCTS .
 
 ## Skills
 Python • JavaScript • Java • RAG • Transformers • Sentence‑Transformers • FLAN‑T5 • Semantic Search • MySQL • MongoDB • Docker • GCP • React • Chrome Extensions
